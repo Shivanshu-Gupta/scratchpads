@@ -2,17 +2,17 @@
     "name": "scratchpads",
     "displayName": "Scratchpads",
     "description": "Create multiple scratchpad files of different file types",
-    "version": "0.0.7",
-    "publisher": "buenon",
+    "version": "0.0.8",
+    "publisher": "shivanshu-gupta",
     "author": {
-        "name": "Nadav Bueno",
-        "email": "buenonadav@gmail.com"
+        "name": "Shivanshu Gupta",
+        "email": "shivanshugupta1995@gmail.com"
     },
     "license": "MIT",
-    "homepage": "https://github.com/buenon/scratchpads/blob/master/README.md",
+    "homepage": "https://github.com/Shivanshu-Gupta/scratchpads",
     "repository": {
         "type": "git",
-        "url": "https://github.com/buenon/scratchpads"
+        "url": "https://github.com/Shivanshu-Gupta/scratchpads"
     },
     "icon": "images/icon.png",
     "engines": {
